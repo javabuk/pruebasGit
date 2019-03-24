@@ -3,9 +3,7 @@ package org.pruebas;
 public class ClasePrincipal {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("Nueva feautre");
-
+		System.out.println("Correccion del bug");
 	}
 
 }
